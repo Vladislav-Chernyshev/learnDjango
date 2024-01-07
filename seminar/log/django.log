@@ -1,0 +1,70 @@
+Watching for file changes with StatReloader
+"GET /dice/ HTTP/1.1" 200 1
+"GET /dice/ HTTP/1.1" 200 1
+"GET /dice/ HTTP/1.1" 200 1
+"GET /dice/ HTTP/1.1" 200 1
+"GET /dice/ HTTP/1.1" 200 1
+"GET /coin/ HTTP/1.1" 200 4
+"GET /coin/ HTTP/1.1" 200 4
+"GET /coin/ HTTP/1.1" 200 4
+"GET /coin/ HTTP/1.1" 200 4
+C:\Users\79853\PycharmProjects\learnDjango\seminar\task5\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /coin/ HTTP/1.1" 200 4
+"GET /coin/ HTTP/1.1" 200 4
+"GET /coin/ HTTP/1.1" 200 4
+"GET /coin/ HTTP/1.1" 200 4
+"GET /coin/ HTTP/1.1" 200 4
+"GET /coin/ HTTP/1.1" 200 4
+"GET /dice/ HTTP/1.1" 200 1
+"GET /dice/ HTTP/1.1" 200 1
+"GET /dice/ HTTP/1.1" 200 1
+"GET /dice/ HTTP/1.1" 200 1
+"GET /dice/ HTTP/1.1" 200 1
+C:\Users\79853\PycharmProjects\learnDjango\seminar\seminar\settings.py changed, reloading.
+Watching for file changes with %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+"%s" %s %s
+%s changed, reloading.
+Watching for file changes with StatReloader
+"GET /coin/ HTTP/1.1" 200 4
+"GET /coin/ HTTP/1.1" 200 4
+C:\Users\79853\PycharmProjects\learnDjango\seminar\seminar\settings.py changed, reloading.
+Watching for file changes with StatReloader
+The view function coin was called
+"GET /coin/ HTTP/1.1" 200 4
+The view function coin was called
+"GET /coin/ HTTP/1.1" 200 4
+The view function coin was called
+"GET /coin/ HTTP/1.1" 200 4
+C:\Users\79853\PycharmProjects\learnDjango\seminar\task5\views.py changed, reloading.
+Watching for file changes with StatReloader
+The view function coin was called and has returned <HttpResponse status_code=200, "text/html; charset=utf-8">
+"GET /coin/ HTTP/1.1" 200 4
+The view function coin was called and has returned <HttpResponse status_code=200, "text/html; charset=utf-8">
+"GET /coin/ HTTP/1.1" 200 4
+The view function dice was called and has returned <HttpResponse status_code=200, "text/html; charset=utf-8">
+"GET /dice/ HTTP/1.1" 200 1
+The view function dice was called and has returned <HttpResponse status_code=200, "text/html; charset=utf-8">
+"GET /dice/ HTTP/1.1" 200 1
+The view function dice was called and has returned <HttpResponse status_code=200, "text/html; charset=utf-8">
+"GET /dice/ HTTP/1.1" 200 1
+The view function dice was called and has returned <HttpResponse status_code=200, "text/html; charset=utf-8">
+"GET /dice/ HTTP/1.1" 200 1
+C:\Users\79853\PycharmProjects\learnDjango\seminar\task5\views.py changed, reloading.
+Watching for file changes with StatReloader
+The view function dice was called and has returned 1
+"GET /dice/ HTTP/1.1" 200 1
+The view function dice was called and has returned 4
+"GET /dice/ HTTP/1.1" 200 1
